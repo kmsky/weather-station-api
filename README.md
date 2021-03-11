@@ -2,7 +2,7 @@
 
 The project is created for handle data from ESP8266 module, which is collecting temperature and humidity values. At this moment collected data are available here (in JSON format): http://arduino.gaway.pl/api/measurement/. In the future, it is planned to add a page to data visualization.
 
-###[ESP8266 with DHT11 sensor](https://github.com/kmsky/esp8266-with-dht11) - project using this API
+### [ESP8266 with DHT11 sensor](https://github.com/kmsky/esp8266-with-dht11) - project using this API
 
 ## Libraries
 
